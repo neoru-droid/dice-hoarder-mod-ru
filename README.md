@@ -3,7 +3,7 @@
 Мод-меню на русском, готовое стартовое сохранение и таблица Cheat Engine для **Dice Hoarder** (версия `1.0`, Windows и Steam Deck).
 
 ## Скачать
-- **[Полное мод-меню v1.0 на Boosty (ранний доступ до 28 ноября, далее открыто всем)](https://boosty.to/cd_tixo/posts/0585ec01-e32d-46a6-87fe-edee2045a9fc?utm_source=github&utm_medium=readme&utm_campaign=dice_hoarder)**
+- **[Полное мод-меню v1.0 на Boosty (ранний доступ до 28 ноября: подписка от 120 ₽ со скидкой 20% или разовая покупка поста за 120 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/0585ec01-e32d-46a6-87fe-edee2045a9fc?utm_source=github&utm_medium=readme&utm_campaign=dice_hoarder)**
 - **[Таблица .CT и стартовое сохранение на GitHub Releases](https://github.com/neoru-droid/dice-hoarder-mod-ru/releases)**
 
 Поддерживаются **Windows 10 / 11** и **Steam Deck / Linux (Proton)**.
@@ -54,6 +54,8 @@
 ## Обратная связь и проекты автора
 
 Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/dice-hoarder-mod-ru/issues).
+
+Предложить свою игру в приоритетную очередь (350 ₽) или заказать разбор вне очереди (750 ₽) можно на [странице Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game).
 
 Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=dice_hoarder) · [профиль на GitHub](https://github.com/neoru-droid)
 
