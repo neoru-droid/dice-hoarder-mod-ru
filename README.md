@@ -3,9 +3,9 @@
 Сохранение на 4 уровень, прокачка всех 8 навыков, бесконечная выносливость, дальний захват `x3` и автосортировка + таблица `.CT` (`v1.0`, Windows и Steam Deck).
 
 ## Скачать
-- **[Полное мод-меню v1.0 на Boosty (ранний доступ до 28 ноября от 120 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/0585ec01-e32d-46a6-87fe-edee2045a9fc?utm_source=github&utm_medium=readme&utm_campaign=dice_hoarder)**
+- **[Полное мод-меню v1.0 на Boosty (ранний доступ 7 дней до 28 ноября: 120 ₽/мес на все релизы или разовый пост 150 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/0585ec01-e32d-46a6-87fe-edee2045a9fc)**
 - **[Таблица .CT и стартовое сохранение на GitHub Releases](https://github.com/neoru-droid/dice-hoarder-mod-ru/releases)**
-- **Заказ своей игры:** в очередь - `350 ₽`, вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
+- **Заказ своей игры:** в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
 
 ![Dice Hoarder - Мод-меню](docs/screenshots/cover_wide.png)
 
@@ -29,4 +29,4 @@
 
 Нашли баг после патча - пишите в [Issues](https://github.com/neoru-droid/dice-hoarder-mod-ru/issues).
 
-[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=dice_hoarder) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
+[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Telegram](https://t.me/neoru_droid) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
