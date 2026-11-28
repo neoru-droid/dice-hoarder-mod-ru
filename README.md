@@ -3,9 +3,9 @@
 Сохранение на 4 уровень, прокачка всех 8 навыков, бесконечная выносливость, дальний захват `x3` и автосортировка + таблица `.CT` (`v1.0`, Windows и Steam Deck).
 
 ## Скачать
-- **[Полное мод-меню v1.0 на Boosty (ранний доступ 7 дней до 28 ноября: 120 ₽/мес на все релизы или разовый пост 150 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/0585ec01-e32d-46a6-87fe-edee2045a9fc)**
-- **[Таблица .CT и стартовое сохранение на GitHub Releases](https://github.com/neoru-droid/dice-hoarder-mod-ru/releases)**
-- **Заказ своей игры:** в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
+- **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/dice-hoarder-mod-ru/releases/download/v1.0.0/DiceHoarder-Trainer-RU-v1.0.zip)** · [Таблица .CT и другие файлы на GitHub Releases](https://github.com/neoru-droid/dice-hoarder-mod-ru/releases)
+- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/0585ec01-e32d-46a6-87fe-edee2045a9fc)**
+- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше от `120 ₽`, своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
 
 ![Dice Hoarder - Мод-меню](docs/screenshots/cover_wide.png)
 
